@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/apple-web-site/static/css/main.88c67d40.css",
+    "main.js": "/apple-web-site/static/js/main.e5a362c9.js",
+    "static/media/apple_pencil.jpg": "/apple-web-site/static/media/apple_pencil.b1358f795d53f518cb2d.jpg",
+    "static/media/iphone_14_pro.jpg": "/apple-web-site/static/media/iphone_14_pro.815df35de99f1e754ec9.jpg",
+    "static/media/ipad_pro.jpg": "/apple-web-site/static/media/ipad_pro.0e7825590b83dad3caa5.jpg",
+    "static/media/ipad_2.jpg": "/apple-web-site/static/media/ipad_2.caa65e8f6b9ed029b5ea.jpg",
+    "static/media/apple_keyboard.jpg": "/apple-web-site/static/media/apple_keyboard.1919680ac80bcbc8c32d.jpg",
+    "static/media/mac_studio.jpg": "/apple-web-site/static/media/mac_studio.4de4a355668350128732.jpg",
+    "static/media/ipad_air.jpg": "/apple-web-site/static/media/ipad_air.c42db74c820cc8ff2280.jpg",
+    "static/media/ipad_mini.jpg": "/apple-web-site/static/media/ipad_mini.9dee3ec703db84674059.jpg",
+    "static/media/watch_ultra.jpg": "/apple-web-site/static/media/watch_ultra.a50036eaf3c4b65e0c09.jpg",
+    "static/media/iphone.jpg": "/apple-web-site/static/media/iphone.d68456aece28a7cf8f41.jpg",
+    "static/media/iphone_14_1.jpg": "/apple-web-site/static/media/iphone_14_1.3d22ef77654f29f6e9df.jpg",
+    "static/media/watch_hermes.jpg": "/apple-web-site/static/media/watch_hermes.db15cfd6f2145a51099e.jpg",
+    "static/media/watch_series_8.jpg": "/apple-web-site/static/media/watch_series_8.034c9fd60eb45ffef9aa.jpg",
+    "static/media/watch_se.jpg": "/apple-web-site/static/media/watch_se.8877c1ef6800fe0623d1.jpg",
+    "static/media/mac_pro.jpg": "/apple-web-site/static/media/mac_pro.5e854cd7935b13a50c8f.jpg",
+    "static/media/iphone_12.jpg": "/apple-web-site/static/media/iphone_12.f1edcf46b38a97632dd0.jpg",
+    "static/media/iphone_se.jpg": "/apple-web-site/static/media/iphone_se.47cb022a6f9f0329c3e6.jpg",
+    "static/media/iphone_14_2.jpg": "/apple-web-site/static/media/iphone_14_2.2e42646cb3fae8b7900f.jpg",
+    "static/media/watch.jpg": "/apple-web-site/static/media/watch.7101fdf72d780481419b.jpg",
+    "static/media/iphone_13.jpg": "/apple-web-site/static/media/iphone_13.ae9d5d40b86ce3e88bc4.jpg",
+    "static/media/macbook_pro_14.jpg": "/apple-web-site/static/media/macbook_pro_14.e523582e9e3087fbce8e.jpg",
+    "static/media/watch_nike.jpg": "/apple-web-site/static/media/watch_nike.ed8c40a05076f1814b2b.jpg",
+    "static/media/mac_book_pro.jpg": "/apple-web-site/static/media/mac_book_pro.5bd278ecd30c8446f7cb.jpg",
+    "static/media/mac_book_air.jpg": "/apple-web-site/static/media/mac_book_air.ed5dc8438ca187e204f2.jpg",
+    "static/media/imac.jpg": "/apple-web-site/static/media/imac.676b5bcba3bf8934939e.jpg",
+    "static/media/ipad_1.jpg": "/apple-web-site/static/media/ipad_1.d8a28baf7adb3ae9354f.jpg",
+    "static/media/mac_mini.jpg": "/apple-web-site/static/media/mac_mini.b49a6b80dc9a9e5eb47a.jpg",
+    "static/media/logo_icon_40.svg": "/apple-web-site/static/media/logo_icon_40.b75278c5343697e5e9119408690d7c43.svg",
+    "index.html": "/apple-web-site/index.html",
+    "main.88c67d40.css.map": "/apple-web-site/static/css/main.88c67d40.css.map",
+    "main.e5a362c9.js.map": "/apple-web-site/static/js/main.e5a362c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88c67d40.css",
+    "static/js/main.e5a362c9.js"
+  ]
+}
